@@ -6,8 +6,8 @@
       "category": "Tech",
       "time": "10:00 AM - 1:00 PM",
       "venue": "Auditorium A",
-      "description": "Hands-on session on latest trends in AI, Web, and Mobile App Development.",
-      "image": "https://images.unsplash.com/photo-1531482615713-2afd640fe1f9?w=800&q=80"
+      "description": "Hands-on session on AI, Web & Mobile Development.",
+      "image": "https://images.unsplash.com/photo-1555066931-bf32d9fd20bf?w=800&q=80"
     },
     {
       "id": "2",
@@ -16,7 +16,7 @@
       "time": "2:00 PM - 6:00 PM",
       "venue": "Sports Ground",
       "description": "Compete in different sporting events and win exciting prizes!",
-      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&q=80"
+      "image": "https://images.unsplash.com/photo-1517649760977-9618b8f7b292?w=800&q=80"
     },
     {
       "id": "3",
@@ -25,16 +25,7 @@
       "time": "7:00 PM - 10:00 PM",
       "venue": "Open Air Theatre",
       "description": "Enjoy live performances by student bands and DJs under the stars.",
-      "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=800&q=80"
-    },
-    {
-      "id": "4",
-      "title": "Career Guidance Seminar",
-      "category": "Education",
-      "time": "11:00 AM - 2:00 PM",
-      "venue": "Lecture Hall B",
-      "description": "Learn career growth strategies and future-ready skills for your industry.",
-      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80"
+      "image": "https://images.unsplash.com/photo-1460518451284-1df2b43b6d5c?w=800&q=80"
     }
   ],
   "feed": [
@@ -42,25 +33,19 @@
       "id": "1",
       "title": "Tech Workshop Highlights",
       "description": "Students engaging in AI and app development practical sessions.",
-      "image": "https://images.unsplash.com/photo-1551817958-202d6dd048d1?w=800&q=80"
+      "image": "https://images.unsplash.com/photo-1515186319781-8a8cf2c3a11a?w=800&q=80"
     },
     {
       "id": "2",
       "title": "Sports Fest Winners",
-      "description": "Congratulations to our sports champions of this semester!",
-      "image": "https://images.unsplash.com/photo-1601658126932-3bfc1ae94601?w=800&q=80"
+      "description": "Congratulations to our sports champions this semester!",
+      "image": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=800&q=80"
     },
     {
       "id": "3",
       "title": "Live Music Night",
       "description": "A fantastic evening with live performances by talented students.",
-      "image": "https://images.unsplash.com/photo-1469571482545-6814dd2bfa2e?w=800&q=80"
-    },
-    {
-      "id": "4",
-      "title": "New AI Club",
-      "description": "Join the AI club to explore machine learning and data science together!",
-      "image": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=800&q=80"
+      "image": "https://images.unsplash.com/photo-1571846818705-1c346998e07c?w=800&q=80"
     }
   ],
   "register": [
@@ -75,12 +60,6 @@
       "name": "Sana Ahmed",
       "email": "sana.ahmed@student.com",
       "eventId": "2"
-    },
-    {
-      "id": "3",
-      "name": "Tariq Khan",
-      "email": "tariq.khan@student.com",
-      "eventId": "3"
     }
   ],
   "feedback": [
@@ -95,32 +74,26 @@
       "eventId": "2",
       "feedbackText": "Sports Fest was super fun and well-organized!",
       "rating": 4
-    },
-    {
-      "id": "3",
-      "eventId": "3",
-      "feedbackText": "Enjoyed the music night thoroughly. Great talent!",
-      "rating": 4
     }
   ],
   "recommendations": [
     {
       "id": "1",
       "title": "Mastering AI & ML",
-      "description": "A self-study plan for mastering AI and machine learning concepts efficiently.",
-      "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d98?w=800&q=80"
+      "description": "A practical plan to master AI and machine learning concepts efficiently.",
+      "image": "https://images.unsplash.com/photo-1581093588401-22e7b235c7c6?w=800&q=80"
     },
     {
       "id": "2",
       "title": "Career Growth Tips",
-      "description": "Professional advice on personal branding and resume crafting for students.",
-      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80"
+      "description": "Professional advice on personal branding and resume crafting.",
+      "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=800&q=80"
     },
     {
       "id": "3",
       "title": "Time Management Hacks",
       "description": "Quick productivity hacks to balance academics and extracurriculars.",
-      "image": "https://images.unsplash.com/photo-1603791440384-6202e82c2c3a?w=800&q=80"
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=800&q=80"
     }
   ]
 }
