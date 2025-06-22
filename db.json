@@ -108,10 +108,13 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Uiunp0z0nLYYhqBkgpf12olQduG2TjNKKQ&s"
     },
     {
-      "id": "2",
-      "title": "Career Growth Tips",
-      "description": "Professional advice on personal branding and resume crafting.",
-      "image": "https://aaftonline.com/blog/wp-content/uploads/2024/08/Career-Growth-vs-Career-Development-The-Key-Differences.jpg"
+  "id": "4",
+  "title": "Career Guidance Seminar",
+  "category": "Education",
+  "time": "11:00 AM - 2:00 PM",
+  "venue": "Lecture Hall B",
+  "description": "Learn career growth strategies and future-ready skills for your industry.",
+  "image": "https://www.careercounsellingiicc.com/images/service/banner_1696336370.webp"
     },
     {
       "id": "3",
