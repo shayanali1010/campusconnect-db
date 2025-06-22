@@ -6,8 +6,8 @@
       "category": "Tech",
       "time": "10:00 AM - 1:00 PM",
       "venue": "Auditorium A",
-      "description": "Hands-on session on AI, Web & Mobile Development.",
-      "image": "https://images.unsplash.com/photo-1555066931-bf32d9fd20bf?w=800&q=80"
+      "description": "Hands-on session on AI, Web & Mobile App Development.",
+      "image": "https://t4.ftcdn.net/jpg/06/69/61/25/360_F_669612584_zLLNhSAd3FsLgvN5IVIWJVia9rBKbr1Z.jpg"
     },
     {
       "id": "2",
@@ -16,7 +16,7 @@
       "time": "2:00 PM - 6:00 PM",
       "venue": "Sports Ground",
       "description": "Compete in different sporting events and win exciting prizes!",
-      "image": "https://images.unsplash.com/photo-1517649760977-9618b8f7b292?w=800&q=80"
+      "image": "https://cdn.britannica.com/15/255215-050-8262C902/Rapinoe-Polkinghorne-US-Australia-soccer-football-2020-Tokyo-Olympics.jpg"
     },
     {
       "id": "3",
@@ -25,7 +25,7 @@
       "time": "7:00 PM - 10:00 PM",
       "venue": "Open Air Theatre",
       "description": "Enjoy live performances by student bands and DJs under the stars.",
-      "image": "https://images.unsplash.com/photo-1460518451284-1df2b43b6d5c?w=800&q=80"
+      "image": "https://thumbs.dreamstime.com/b/happy-young-women-singing-karaoke-night-club-party-holidays-celebration-nightlife-people-concept-behind-crowd-music-fan-60473594.jpg"
     },
     {
       "id": "4",
@@ -34,7 +34,7 @@
       "time": "11:00 AM - 2:00 PM",
       "venue": "Lecture Hall B",
       "description": "Learn career growth strategies and future-ready skills.",
-      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80"
+      "image": "data:image/jpeg;base64,/9j/AAQSkZJRgABAQEAAAQBAAD/2wCEAAkGBxMTEhUQExMVFhUVFhcVFRYWFxUVFhUWGBUWFxcXGBcYHSggGBolHRYVITEhJSkrLy4uFyAzODMtNygtLisBCgoKDg0OGxAQGy0mHyYtKy0rLS0tLS0rLy8tLy0vKy0tLy0rLS0tKy0tLS0tLS0tNS0tKy8tLS8vLS0tLS0tLf/AABEIAKgBLAMBIgACEQEDEQH/xAAcAAACAwEBAQEAAAAAAAAAAAAEBQIDBgAHAQj/xABIEAACAgEDAgUBBAYFCgMJAAABAgMRAAQSIQUxBhMiQVFhMnGBkQcUI0JSsWJyocHRFRYzU5KTotLh8CTC8RdEVFVzlKPT4//EABoBAAIDAQEAAAAAAAAAAAAAAAIDAAEEBQb/xAAyEQACAgEDAgMHAwMFAAAAAAAAAQIRAwQSITFBE1FhBSKBkaGx8HHB4RQyQiNSwtHx/9oADAMBAAIRAxEAPwD2..."
     },
     {
       "id": "5",
@@ -43,7 +43,7 @@
       "time": "9:00 AM - 9:00 PM",
       "venue": "Computer Lab 2",
       "description": "Test your coding skills in this competitive hackathon.",
-      "image": "https://images.unsplash.com/photo-1551033406-7d9ffad4f778?w=800&q=80"
+      "image": "https://leadschool.in/wp-content/uploads/2022/04/shutterstock_1777292972.jpg"
     }
   ],
   "feed": [
@@ -51,31 +51,25 @@
       "id": "1",
       "title": "Tech Workshop Highlights",
       "description": "Students engaging in AI and app development practical sessions.",
-      "image": "https://images.unsplash.com/photo-1515186319781-8a8cf2c3a11a?w=800&q=80"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Uiunp0z0nLYYhqBkgpf12olQduG2TjNKKQ&s"
     },
     {
       "id": "2",
       "title": "Sports Fest Winners",
       "description": "Congratulations to our sports champions this semester!",
-      "image": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=800&q=80"
+      "image": "https://cdn.britannica.com/15/255215-050-8262C902/Rapinoe-Polkinghorne-US-Australia-soccer-football-2020-Tokyo-Olympics.jpg"
     },
     {
       "id": "3",
       "title": "Live Music Night",
       "description": "A fantastic evening with live performances by talented students.",
-      "image": "https://images.unsplash.com/photo-1571846818705-1c346998e07c?w=800&q=80"
+      "image": "https://thumbs.dreamstime.com/b/happy-young-women-singing-karaoke-night-club-party-holidays-celebration-nightlife-people-concept-behind-crowd-music-fan-60473594.jpg"
     },
     {
       "id": "4",
-      "title": "Seminar Success",
-      "description": "Great turnout at our career guidance seminar yesterday!",
-      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&q=80"
-    },
-    {
-      "id": "5",
-      "title": "Hackathon Highlights",
-      "description": "Developers collaborating and creating innovative solutions.",
-      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&q=80"
+      "title": "New AI Club",
+      "description": "Join the AI club to explore machine learning and data science together!",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Uiunp0z0nLYYhqBkgpf12olQduG2TjNKKQ&s"
     }
   ],
   "register": [
@@ -90,12 +84,6 @@
       "name": "Sana Ahmed",
       "email": "sana.ahmed@student.com",
       "eventId": "2"
-    },
-    {
-      "id": "3",
-      "name": "Tariq Khan",
-      "email": "tariq.khan@student.com",
-      "eventId": "3"
     }
   ],
   "feedback": [
@@ -110,12 +98,6 @@
       "eventId": "2",
       "feedbackText": "Sports Fest was super fun and well-organized!",
       "rating": 4
-    },
-    {
-      "id": "3",
-      "eventId": "3",
-      "feedbackText": "Enjoyed the music night thoroughly. Great talent!",
-      "rating": 5
     }
   ],
   "recommendations": [
@@ -123,25 +105,25 @@
       "id": "1",
       "title": "Mastering AI & ML",
       "description": "A practical plan to master AI and machine learning concepts efficiently.",
-      "image": "https://images.unsplash.com/photo-1581093588401-22e7b235c7c6?w=800&q=80"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Uiunp0z0nLYYhqBkgpf12olQduG2TjNKKQ&s"
     },
     {
       "id": "2",
       "title": "Career Growth Tips",
       "description": "Professional advice on personal branding and resume crafting.",
-      "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=800&q=80"
+      "image": "https://aaftonline.com/blog/wp-content/uploads/2024/08/Career-Growth-vs-Career-Development-The-Key-Differences.jpg"
     },
     {
       "id": "3",
       "title": "Time Management Hacks",
       "description": "Quick productivity hacks to balance academics and extracurriculars.",
-      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=800&q=80"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt6zajINHViwnnKaVpuU8y-scRtM97HM7sEg&s"
     },
     {
       "id": "4",
       "title": "Effective Networking",
       "description": "Learn networking strategies to grow professionally and personally.",
-      "image": "https://images.unsplash.com/photo-1495022348393-3f9081e2d9e6?w=800&q=80"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHY9X8Gc05THbMXSV1z6CE1ykTYUnIUG_WaQ&s"
     }
   ]
 }
