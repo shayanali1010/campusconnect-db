@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "Tech Workshop",
+    "category": "Tech",
+    "time": "10:00 AM - 1:00 PM",
+    "venue": "Auditorium A",
+    "description": "Learn about the latest trends in technology and AI.",
+    "image": "https://source.unsplash.com/600x400/?technology,workshop"
+  },
+  {
+    "id": "2",
+    "title": "Sports Fest",
+    "category": "Sports",
+    "time": "2:00 PM - 6:00 PM",
+    "venue": "Sports Ground",
+    "description": "Compete in different sporting events and win prizes!",
+    "image": "https://source.unsplash.com/600x400/?sports,event"
+  },
+  {
+    "id": "3",
+    "title": "Music Night",
+    "category": "Entertainment",
+    "time": "7:00 PM - 10:00 PM",
+    "venue": "Open Air Theatre",
+    "description": "Enjoy live performances by student bands and DJs.",
+    "image": "https://source.unsplash.com/600x400/?music,concert"
+  }
+]
