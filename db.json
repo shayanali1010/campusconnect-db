@@ -26,6 +26,24 @@
       "venue": "Open Air Theatre",
       "description": "Enjoy live performances by student bands and DJs under the stars.",
       "image": "https://images.unsplash.com/photo-1460518451284-1df2b43b6d5c?w=800&q=80"
+    },
+    {
+      "id": "4",
+      "title": "Career Guidance Seminar",
+      "category": "Education",
+      "time": "11:00 AM - 2:00 PM",
+      "venue": "Lecture Hall B",
+      "description": "Learn career growth strategies and future-ready skills.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80"
+    },
+    {
+      "id": "5",
+      "title": "Coding Marathon",
+      "category": "Tech",
+      "time": "9:00 AM - 9:00 PM",
+      "venue": "Computer Lab 2",
+      "description": "Test your coding skills in this competitive hackathon.",
+      "image": "https://images.unsplash.com/photo-1551033406-7d9ffad4f778?w=800&q=80"
     }
   ],
   "feed": [
@@ -46,6 +64,18 @@
       "title": "Live Music Night",
       "description": "A fantastic evening with live performances by talented students.",
       "image": "https://images.unsplash.com/photo-1571846818705-1c346998e07c?w=800&q=80"
+    },
+    {
+      "id": "4",
+      "title": "Seminar Success",
+      "description": "Great turnout at our career guidance seminar yesterday!",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&q=80"
+    },
+    {
+      "id": "5",
+      "title": "Hackathon Highlights",
+      "description": "Developers collaborating and creating innovative solutions.",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&q=80"
     }
   ],
   "register": [
@@ -60,6 +90,12 @@
       "name": "Sana Ahmed",
       "email": "sana.ahmed@student.com",
       "eventId": "2"
+    },
+    {
+      "id": "3",
+      "name": "Tariq Khan",
+      "email": "tariq.khan@student.com",
+      "eventId": "3"
     }
   ],
   "feedback": [
@@ -74,6 +110,12 @@
       "eventId": "2",
       "feedbackText": "Sports Fest was super fun and well-organized!",
       "rating": 4
+    },
+    {
+      "id": "3",
+      "eventId": "3",
+      "feedbackText": "Enjoyed the music night thoroughly. Great talent!",
+      "rating": 5
     }
   ],
   "recommendations": [
@@ -94,6 +136,12 @@
       "title": "Time Management Hacks",
       "description": "Quick productivity hacks to balance academics and extracurriculars.",
       "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=800&q=80"
+    },
+    {
+      "id": "4",
+      "title": "Effective Networking",
+      "description": "Learn networking strategies to grow professionally and personally.",
+      "image": "https://images.unsplash.com/photo-1495022348393-3f9081e2d9e6?w=800&q=80"
     }
   ]
 }
